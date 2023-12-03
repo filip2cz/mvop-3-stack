@@ -1,3 +1,5 @@
+assignment:
+
 Implementuj vlastní třídu Stack (Zásobník)(MyStack)
 Třída Zásobník ukládá znaky do kolekce LIFO ("Last In First Out") a poskytuje programátorům následující funkce:
 Push(char c) ukládá znak na vrchol zásobníku
